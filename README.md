@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm danferkz</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 
-- 🔭 I’m currently working on [SGC_sf]([https://github.com/danferkz/SGC_sf])
+- 🔭 I’m currently working on [SGC_sf](https://github.com/danferkz/SGC_sf)
 
 # 😎 Connect with me:
 
